@@ -12,7 +12,7 @@ TireChalk is a crowdsourcing reporting platform where tire admirers unite to cel
 
 Learn more on the [TireChalk app](https://i2c.space/tirechalk).
 
-Or check out the [TireChalk how-to user guide](https://i2c.space/docs/tirechalk/tirechalk-guide) or the [FAQ](https://i2c.space/tirechalk/faq).
+Or check out the [TireChalk how-to user guide](https://i2c.space/docs/tirechalk/tirechalk-guide) or the [FAQ](https://i2c.space/docs/tirechalk/tirechalk-faq).
 
 ## Issues
 
