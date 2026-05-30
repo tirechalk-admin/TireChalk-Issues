@@ -22,10 +22,6 @@ Or check out the [TireChalk how-to user guide](https://i2c.space/docs/tirechalk/
 
 ---
 
-<p align="center">
-  <img src="icon.png" alt="TireChalk" width="128" />
-</p>
-
 # TireChalk (Français)
 
 Ceci n'est pas le véritable dépôt TireChalk — le code source est privé pour le moment. Vous pouvez ouvrir des tickets ici pour signaler des bogues, proposer des fonctionnalités ou laisser vos commentaires en attendant que le projet devienne public, après quoi les tickets seront déplacés vers le dépôt public.
